@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "optimist": "0.6.x",
-    "cardinal": "0.4.x",
+    "cardinal": "0.7.1",
     "async": "0.2.x",
     "humanize": "0.0.x",
     "csv-parse": "^1.1.7"
